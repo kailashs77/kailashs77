@@ -1,30 +1,13 @@
-# Kailash S
+Kailash S
 
-### Computer Science Student
+I am a Computer Science Engineering undergraduate at the Vellore Institute of Technology, Chennai, with a primary focus on software development and algorithm design. I am dedicated to building a strong foundation in core computer science principles and applying them to practical challenges.
 
-I am a Computer Science Engineering undergraduate at the Vellore Institute of Technology, Chennai. My primary focus is on software development and algorithm design. I am dedicated to building a strong foundation in core computer science principles and applying them to practical challenges.
+Currently, my areas of study include Data Structures and Algorithms, Object-Oriented Programming with C++, the Foundations of Web Development, and an Introduction to Python.
 
----
+My professional interests lie in Software Engineering, System Design, Competitive Programming, and Artificial Intelligence.
 
-### Current Areas of Study
-* Data Structures and Algorithms
-* Object-Oriented Programming with C++
-* Foundations of Web Development
-* Introduction to Python
-
----
-
-### Professional Interests
-* Software Engineering
-* System Design
-* Competitive Programming
-* Artificial Intelligence
-
----
-
-### Contact Information
-* **LinkedIn:** https://www.linkedin.com/in/kailash-s-805142388/
-* **Email:** kailash.s2025@vitstudent.ac.in
+LinkedIn: https://www.linkedin.com/in/kailash-s-805142388/
+Email: kailash.s2025@vitstudent.ac.in
 
 <!--
 **kailashs77/kailashs77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

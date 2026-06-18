@@ -1,0 +1,36 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int a;
+    cin>>a;
+    int count=0;
+    int sum=0;
+    while(a--){
+        int x,y,z;
+        cin>>x>>y>>z;
+        if(x==1){
+            if(y==1){
+                count++;
+                
+            }
+            else{
+                if(z==1){
+                count++;
+            } 
+            }
+            
+        }
+        else{
+            if(y==1){
+                if(z==1){
+                count++;
+            }
+            }
+            
+        }
+        
+    }
+    cout<<count;
+    return 0;
+}

@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+    cin>>n;
+    while(n--){
+        int x,y;
+        cin>>x>>y;
+        if(x<6){
+            cout<<y<<endl;
+
+        }
+        else{
+            if(x%6==0){
+                cout<<(x/6)*y<<endl;
+            }
+            else{
+                cout<<((x/6)+1)*y<<endl;
+            }
+        }
+    }
+    return 0;
+}

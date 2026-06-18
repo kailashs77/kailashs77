@@ -6,6 +6,8 @@ Currently, my areas of study include Data Structures and Algorithms, Object-Orie
 
 My professional interests lie in Software Engineering, System Design, Competitive Programming, and Artificial Intelligence.
 
+Codeforces: https://codeforces.com/profile/Kailash77
+CodeChef: https://www.codechef.com/users/quiver_rats_54
 LinkedIn: https://www.linkedin.com/in/kailash-s-805142388/
 Email: kailash.s2025@vitstudent.ac.in
 
